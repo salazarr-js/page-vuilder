@@ -1,4 +1,4 @@
-# 🧩 Page Vuilder
+# 🧱 Page Vuilder
 
 Headless, type-safe visual page builder for Vue
 
